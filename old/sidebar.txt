@@ -1,0 +1,76 @@
+﻿title
+Tropical Weather
+
+description
+This is a subreddit designed for all sorts of tropical weather discussion. Though the focus will be on tropical meteorology, it will also be a place for people to stay in touch before, during, and after tropical weather events. People can share their observations, start their own threads that may be location specific, or post in the official threads for each storm. Users will get flair that indicates if they are an approved meteorologist as well as flare for their state.
+
+sidebar
+Welcome to /r/tropicalweather!
+
+/r/tropicalweather is designed to focus on tropical weather events such as hurricanes, typhoons, tropical storms, and El-Nino cycles throughout the world. Although the discussion will mostly be focused scientific and meteorological analysis, non-scientific discussion such as preparations, questions, and observations are welcome.
+
+
+We in the /r/tropicalweather mod community have the following features implemented:
+
+- Flair for particular countries and areas in the tropical weather sphere of influence.
+- Special flair for approved meteorologists.
+- Official threads when a storm is named and throughout the storms life-cycle until and following landfall.
+- Links in the sidebar for learning about basic meteorology as it applies to tropical weather.
+- Models, analysis, and in depth discussion on tropical weather.
+
+**"Official Thread" Posting Guidelines**
+
+You may post an official thread if none of the mods get to it first, but it may be removed unless it follows these guidelines:
+
+Storm posts will go through 3 stages:
+
+- **Disturbed weather/invest:** Simply post where the disturbed weather is and the invest title. Don't put percentages in your title as you can now edit it with post flair! It will end up looking like this: (invest flair) Invest 91L off of Florida.
+- **Tropical Depression:** Same thing as above, but it gets a new post. It'll look like this (TD Flair) TD1 in the Western Atlantic off of Florida.
+- **Named Storm:** This is where things get interesting. Do NOT post "Tropical Storm Arthur" or "Hurricane Arthur". Instead, just use the name. The flair will be edited as the storm weakens and strengthens. The post format is: (TS/Hurricane flair) Arthur comments, models, and observations.
+
+**Important Threads**
+
+- [Twitter Alert Feeds] (http://www.reddit.com/r/TropicalWeather/comments/25w9p1/is_anyone_here_using_a_twitter_alert_or_other/)
+- [Hurricane Supplies Thread](http://www.reddit.com/r/TropicalWeather/comments/25u3qn/supplies_list_for_hurricane_season/)
+
+**Tropical Weather Resources**
+
+- [The National Hurricane Center](http://www.nhc.noaa.gov/)
+- [Historical Storm Tracks](http://csc.noaa.gov/hurricanes/)
+- [Hurricane Models](http://moe.met.fsu.edu/tcgengifs/)
+- [NOAA Satellite imagery](http://www.ssd.noaa.gov/goes/east/) (GOES-East, TRMM, AMSU, DMSP satellites)
+- [Mike's Weather Page](http://spaghettimodels.com/)
+- [Live Recon Telemetry](http://www.tropicalatlantic.com/recon/)
+- [SimuAWIPS meteorology console](http://www.simuawips.com/) (free but very powerful tool; registration required)
+- [Google Crisis Map](http://www.google.org/crisismap/weather_and_events) (information on current storms, disasters and major events)
+- [Weather satellite imagery archive](http://internationalweatherarchive.org/satViewer.aspx) (great for combining lots of weather satellite imagery, e.g. for an entire season)
+- [Naval Research Laboratory NEXSAT viewer](http://www.nrlmry.navy.mil/nexsat-bin/nexsat.cgi?BASIN=CONUS&SUB_BASIN=focus_regions&AGE=Latest&REGION=NW_Atlantic&SECTOR=Caribbean&PRODUCT=vis_ir_background&SUB_PRODUCT=goes&SIZE=Thumb&PATH=NW_Atlantic/Caribbean/vis_ir_background/goes&&buttonPressed=Animate&ANIM_TYPE=Instant)
+- [LSU Earth Scan Laboratory](http://www.esl.lsu.edu/imagery/atmosphere/)
+- [WeatherSpark](http://weatherspark.com/#!dashboard;q=New%20Orleans%2C%20Louisiana%2C%20United%20States) (beautifully-presented weather data)
+
+
+
+**Rules:**
+
+- Basic reddiquette rules will be enforced.
+- Multiple "official" threads on the same storm may be deleted.
+- No slanderous, hateful, threatening, or sexually-oriented posts allowed.
+- No political discussion. Discussion on global warming is acceptable, but probably more suited for other subreddits.
+- No spam.
+- No pay-for-only content allowed.
+- Intentional posting of false information is a ban worthy offense. 
+- If you are not an approved meteorologist, please refrain from absolutes in your forecasting. Posts such as "This storm will ride up the entire coast and landfall in New York City" without being a meteorologist are not acceptable. Speculation is still OK.
+- Trolling is unacceptable.
+
+
+
+**Other weather related subreddits:**
+
+- /r/weather
+- /r/stormchasing
+- /r/meteorology
+- /r/climate
+
+######We are currently tracking: **[Invest 93L](http://www.reddit.com/r/TropicalWeather/comments/2bx6qw/93l_in_the_atlantic/?sort=new)**
+
+submission text
